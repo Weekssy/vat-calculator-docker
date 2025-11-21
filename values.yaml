@@ -1,0 +1,2 @@
+image: weekssy/vat:<+pipeline.sequenceId>
+replicas: 1
